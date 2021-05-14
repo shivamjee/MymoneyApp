@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371424466079",
+    "firebase_url": "https://moneymanager-fd8ff.firebaseio.com",
+    "project_id": "moneymanager-fd8ff",
+    "storage_bucket": "moneymanager-fd8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371424466079:android:ec0960bf40d6c7a00fbeaa",
+        "android_client_info": {
+          "package_name": "com.lee.mymoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371424466079-3unm68knkedvdvqlgoo0pi2i2r6cpc3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lee.mymoney",
+            "certificate_hash": "51a19ced3ce51dda427b0654acc7c259ef84586a"
+          }
+        },
+        {
+          "client_id": "371424466079-ir5sp67rmn1eo1lo4ane8ruckikmb7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfQ9_t1Z9c0vJS_q0JGccXGxxQhj9pef8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371424466079-ir5sp67rmn1eo1lo4ane8ruckikmb7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
